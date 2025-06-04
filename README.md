@@ -5,7 +5,7 @@ A responsive web app that replicates the UI and feel of **Netflix**, built with 
 ---
 
 ## 🔗 Live Project  
-[View Now](https://your-live-project-link.com)
+[View Now](https://codedBySonu.github.io/Netflis_Clone)
 
 ---
 
