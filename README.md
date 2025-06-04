@@ -21,8 +21,8 @@ A responsive web app that replicates the UI and feel of **Netflix**, built with 
 
 ## 📸 Screenshot
 
-screenshot1.jpg
-screenshot2.jpg
+![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
 
 ---
 
